@@ -540,6 +540,7 @@ a:focus {
 
 .food_section .box .detail-box {
   padding: 25px;
+  height: 228px;
 }
 
 .food_section .box .detail-box h5 {
