@@ -247,6 +247,16 @@ a:focus {
   border: none;
 }
 
+.user_option .order_call {
+  display: inline-block;
+  padding: 8px 30px;
+  background-color: #29f032;
+  color: #ffffff;
+  border-radius: 45px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: none;
+}
 .user_option .order_online:hover {
   background-color: #e69c00;
 }
